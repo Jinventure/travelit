@@ -145,7 +145,7 @@ src─|
 			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="최원진"/></th>
 		</tr>
 		<tr>
-			<th><a href="https://github.com/pjiny92" target="_blank">박혜진</a></th>
+			<th><a href="https://github.com/Jinventure" target="_blank">박혜진</a></th>
 			<th><a href="https://github.com/sksrpf1126" target="_blank">임성현</a></th>
 			<th><a href="https://github.com/HeegeneChae" target="_blank">채희진</a></th>
 			<th><a href="https://github.com/JinyDev95" target="_blank">최원진</a></th>
