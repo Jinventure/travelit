@@ -139,7 +139,7 @@ src─|
 <table>
 	<tbody>
 		<tr>
-			<th><img width="150px" src="https://github.com/pjiny92.png" alt="박혜진"/></th>
+			<th><img width="150px" src="https://github.com/Jinventure.png" alt="박혜진"/></th>
 			<th><img width="150px" src="https://github.com/sksrpf1126.png" alt="임성현"/></th>
 			<th><img width="150px" src="https://github.com/HeegeneChae.png" alt="채희진"/></th>
 			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="최원진"/></th>
